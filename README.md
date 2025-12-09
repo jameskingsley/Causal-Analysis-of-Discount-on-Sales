@@ -1,7 +1,5 @@
 # Causal-Analysis-of-Discount-on-Sales
 
-# Causal Analysis of Discounts on Sales – Sample Superstore
-
 ## Overview
 This project investigates the causal effect of discounts on sales using the Sample Superstore dataset. We aim to answer the question:
 
